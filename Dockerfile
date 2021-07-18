@@ -1,4 +1,4 @@
-FROM xosofox/full-stack-builder:2.1
+FROM xosofox/full-stack-builder:2.1.4
 
 RUN apt-get update
 RUN apt-get install bash
